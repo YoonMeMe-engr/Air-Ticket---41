@@ -1,3 +1,5 @@
+const myButton = document.getElementById("myButton");
+
 const originalPrice = 100;
 let totalPrice = 0;
 let memberType = "not member";
